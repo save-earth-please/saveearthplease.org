@@ -279,4 +279,5 @@ body {
 
 .readable {
   max-width: 40em;
+  box-sizing: border-box;
 }
